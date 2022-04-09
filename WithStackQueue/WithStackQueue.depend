@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1605921371 source:c:\users\olkay\desktop\afer\withstackqueue\main.cpp
+	"Sokoban.h"
+	"StackQueue.h"
+	<iostream>
+	<fstream>
+
+1605922092 c:\users\olkay\desktop\afer\withstackqueue\sokoban.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<fstream>
+
+1605922444 c:\users\olkay\desktop\afer\withstackqueue\stackqueue.h
+	<iostream>
+	<fstream>
+
+1605951000 source:c:\users\olkay\desktop\afer\ee441_pa1_afer_olkay_2305126\withstackqueue\main.cpp
+	"Sokoban.h"
+	"StackQueue.h"
+	<iostream>
+	<fstream>
+
+1605922092 c:\users\olkay\desktop\afer\ee441_pa1_afer_olkay_2305126\withstackqueue\sokoban.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<fstream>
+
+1605922444 c:\users\olkay\desktop\afer\ee441_pa1_afer_olkay_2305126\withstackqueue\stackqueue.h
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1605919551 source:c:\users\olkay\desktop\afer\programmingassignment\main.cpp
+	"Sokoban.h"
+	<iostream>
+	<fstream>
+	"DoubleLinked.h"
+	"DoubleLinkStorage.h"
+
+1605887255 c:\users\olkay\desktop\afer\programmingassignment\sokoban.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<fstream>
+
+1604152543 c:\users\olkay\desktop\afer\programmingassignment\queue.h
+	<iostream>
+	<stdlib.h>
+	"link.h"
+
+1604152692 c:\users\olkay\desktop\afer\programmingassignment\link.h
+	<iostream>
+	<stdlib.h>
+	"node.h"
+
+1583387508 c:\users\olkay\desktop\afer\programmingassignment\node.h
+
+1604153165 c:\users\olkay\desktop\afer\programmingassignment\stack.h
+	<iostream>
+	<stdlib.h>
+	"link.h"
+
+1605887778 c:\users\olkay\desktop\afer\programmingassignment\stackqueue.h
+	<iostream>
+	<fstream>
+
+1605889459 c:\users\olkay\desktop\afer\programmingassignment\intro.h
+	<unistd.h>
+
+1605919002 c:\users\olkay\desktop\afer\programmingassignment\sqwdoublelinked.h
+	<iostream>
+	"stdlib.h"
+	"stddef.h"
+
+1605919342 c:\users\olkay\desktop\afer\programmingassignment\newstackqueue.h
+	<iostream>
+	<fstream>
+	"DoubleLinked.h"
+
+1605919130 c:\users\olkay\desktop\afer\programmingassignment\doublelinked.h
+	<iostream>
+	"stdlib.h"
+	"stddef.h"
+
+1605919551 c:\users\olkay\desktop\afer\programmingassignment\doublelinkstorage.h
+	<iostream>
+	<fstream>
+	"DoubleLinked.h"
+

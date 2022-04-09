@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1605920920 source:c:\users\olkay\desktop\afer\withdoublelinkedlist\main.cpp
+	"Sokoban.h"
+	<iostream>
+	<fstream>
+	"DoubleLinked.h"
+	"DoubleLinkStorage.h"
+
+1605922149 c:\users\olkay\desktop\afer\withdoublelinkedlist\sokoban.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<fstream>
+
+1605919969 c:\users\olkay\desktop\afer\withdoublelinkedlist\doublelinked.h
+	<iostream>
+	"stdlib.h"
+	"stddef.h"
+
+1605920431 c:\users\olkay\desktop\afer\withdoublelinkedlist\doublelinkstorage.h
+	<iostream>
+	<fstream>
+	"DoubleLinked.h"
+
+1605950481 source:c:\users\olkay\desktop\afer\ee441_pa1_afer_olkay_2305126\withdoublelinkedlist\main.cpp
+	"Sokoban.h"
+	<iostream>
+	<fstream>
+	"DoubleLinked.h"
+	"DoubleLinkStorage.h"
+
+1605922149 c:\users\olkay\desktop\afer\ee441_pa1_afer_olkay_2305126\withdoublelinkedlist\sokoban.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<fstream>
+
+1605919969 c:\users\olkay\desktop\afer\ee441_pa1_afer_olkay_2305126\withdoublelinkedlist\doublelinked.h
+	<iostream>
+	"stdlib.h"
+	"stddef.h"
+
+1605950688 c:\users\olkay\desktop\afer\ee441_pa1_afer_olkay_2305126\withdoublelinkedlist\doublelinkstorage.h
+	<iostream>
+	<fstream>
+	"DoubleLinked.h"
+
